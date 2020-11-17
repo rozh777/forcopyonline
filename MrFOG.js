@@ -196,7 +196,7 @@ MrFOG91.login("NzcxMTgwOTk1MjczNjg3MDUw.X5oYjg.fy6BNwe69cLdC2ChV27NDUcxg8c");
 MrFOG92.login("NzcxMTgxNTMwOTE1Mjc0Nzky.X5oZEA.uKb47SC4gwR96ig1NVaXjSFay8A");
 MrFOG93.login("NzcxMTgyMTk0Mjk0NTIxODY3.X5oZ0A.uP2BgFTcyqmmCyupOilljLLqa6c");
 MrFOG94.login("NzcxMTgyODk2NjQ3MzcyODAw.X5oa6Q.vW13NGwbacrJrNug8q3bKKS9_Is");
-MrFOG95.login("NzcxMTg0MDcxMDYxNTM2Nzg4.X5obcw.-ONvyRmRdtklEXttoXUm0NvMHlo);
+MrFOG95.login("NzcxMTg0MDcxMDYxNTM2Nzg4.X5obcw.-ONvyRmRdtklEXttoXUm0NvMHlo");
 MrFOG96.login("NzcxMTg0Njg3ODc5MjkwOTAy.X5oc-Q.lm3mw4tkFlLBdMCc3hCL09-2FTM");
 MrFOG97.login("NzcxMTg2Mzc5ODM2NjIwODEw.X5odzw.WFkk_nZGhQG2P3LNXtxbsfQfxKY");
 MrFOG98.login("NzcxMTg3NDA4NTY5NjMwNzIw.X5oeeA.GsYOJuH87GN8tJzaqJ44wZ7SmgU");
